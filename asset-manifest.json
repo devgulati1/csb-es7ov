@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://devgulati1.github.io/csb-es7ov/static/css/main.dea6044d.chunk.css",
+    "main.js": "https://devgulati1.github.io/csb-es7ov/static/js/main.a174f869.chunk.js",
+    "main.js.map": "https://devgulati1.github.io/csb-es7ov/static/js/main.a174f869.chunk.js.map",
+    "runtime-main.js": "https://devgulati1.github.io/csb-es7ov/static/js/runtime-main.bcf55d61.js",
+    "runtime-main.js.map": "https://devgulati1.github.io/csb-es7ov/static/js/runtime-main.bcf55d61.js.map",
+    "static/js/2.fd565417.chunk.js": "https://devgulati1.github.io/csb-es7ov/static/js/2.fd565417.chunk.js",
+    "static/js/2.fd565417.chunk.js.map": "https://devgulati1.github.io/csb-es7ov/static/js/2.fd565417.chunk.js.map",
+    "index.html": "https://devgulati1.github.io/csb-es7ov/index.html",
+    "static/css/main.dea6044d.chunk.css.map": "https://devgulati1.github.io/csb-es7ov/static/css/main.dea6044d.chunk.css.map",
+    "static/js/2.fd565417.chunk.js.LICENSE.txt": "https://devgulati1.github.io/csb-es7ov/static/js/2.fd565417.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcf55d61.js",
+    "static/js/2.fd565417.chunk.js",
+    "static/css/main.dea6044d.chunk.css",
+    "static/js/main.a174f869.chunk.js"
+  ]
+}
