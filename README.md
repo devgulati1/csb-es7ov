@@ -2,7 +2,8 @@ Movies-Finder
 
 It is an a website in which user can find different movies generes..
 
-
+## tech Stack 
+HTML, CSS, JAVASCRIPT , REACT
 
 ## Demo
 
